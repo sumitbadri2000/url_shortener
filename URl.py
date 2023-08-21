@@ -5,7 +5,7 @@ from tkinter import *
 #win is helping for window
 #Tk is function which is window name
 win = Tk()
-#geometry is help give increase window size
+#geometry is help give increase window width and heigth
 win.geometry("400x400")
 # confifure is help to give background
 win.configure(bg="grey")
